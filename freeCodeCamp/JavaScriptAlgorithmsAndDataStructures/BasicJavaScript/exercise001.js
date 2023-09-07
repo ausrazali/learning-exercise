@@ -32,7 +32,7 @@ console.log("Removed element: " + JSON.stringify(nextInLine(testArr, 6)));
 console.log("After: " + JSON.stringify(testArr));
 
 /*
-==JSON.stringify== is used to convert array or object (in this case, array testArr) to string for display purpose.
-==This can be useful when want to transmit or store data in a text-based format,
-such as when working with APIs or saving data to a file.==
+JSON.stringify== is used to convert array or object (in this case, array testArr) to string for display purpose.
+This can be useful when want to transmit or store data in a text-based format,
+such as when working with APIs or saving data to a file.
 */
