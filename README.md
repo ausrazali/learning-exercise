@@ -1,1 +1,1 @@
-# My learning exercises
+# My learning
